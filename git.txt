@@ -21,3 +21,6 @@ g:::::gg   gg:::::g
   gg:::::::::::::g                                 
     ggg::::::ggg                                   
        gggggg                                      
+       
+       
+I learned about how to commit. I also learned about how the yellow and green signs mean under git. Besides, we could modify our file and save it in git.
